@@ -12,7 +12,7 @@ https://weather-eye-tobyfee.herokuapp.com/
 
 ## Background
 * consumes data from http://openweathermap.org/.
-* Weather animations from the lovely (Josh Bader)[https://codepen.io/joshbader/]
+* Weather animations from the lovely [Josh Bader](https://codepen.io/joshbader/)
 
 
 ## Screenshots
