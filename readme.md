@@ -1,11 +1,9 @@
 # weather-eye
 What is the weather going to be like?
 
-## credits
-Weather animations from the lovely (Josh Bader)[https://codepen.io/joshbader/]
-
 ## Live Site
-...yeah. I'll get that done ASAP
+https://weather-eye-tobyfee.herokuapp.com/
+
 
 ## Installation instructions
 1. clone this repository
@@ -14,13 +12,13 @@ Weather animations from the lovely (Josh Bader)[https://codepen.io/joshbader/]
 
 ## Background
 * consumes data from http://openweathermap.org/.
-* Animated weather icons modified from Fabrizio Bianchi https://codepen.io/fbrz/pen/iqtlk.
+* Weather animations from the lovely (Josh Bader)[https://codepen.io/joshbader/]
+
 
 ## Screenshots
 
 ## TODO
-* move API key
+* move API key out to config
 * add screenshots
-* add a link to a live version
 * tear out Redux, really not necessary in a site this simple.
 * search term to appear in parameterized URL
